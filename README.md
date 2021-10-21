@@ -23,7 +23,7 @@ Our work team is conformed by 6 students of the first semester of software engin
 
 # First part of the project
 ## The description of the app
-In this [document](docs/Fila1.md) as it's named we describe all the general parts of the software project. 
+In this [document](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega1/Fila1.md) as it's named we describe all the general parts of the software project. 
 ## Video
 https://www.youtube.com/watch?v=ea8dMza2wls&t=6s&ab_channel=Rub%C3%A9nAlvarado
 
