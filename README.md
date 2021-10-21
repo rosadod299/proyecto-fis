@@ -22,6 +22,9 @@ Our work team is conformed by 6 students of the first semester of software engin
 
 
 # First part of the project
+## Results of the questionnaire 
+Rirst we had to know some things about people behavior related on how they save their files in their computer, so we decided to create a questionnaire and those are the results:
+[Questionnaire](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega1/RESPUESTAS%20DEL%20CUESTONARIO.pdf)
 
 ## The description of the app
 In this document as it's called we describe all the general parts of the software project. 
