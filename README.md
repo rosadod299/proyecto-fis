@@ -38,7 +38,7 @@ In this part of the project we described and considered the functional requireme
 With the help of the log, we record all the processes that occurred throughout this first part of the project, from the responsibilities to the agreements reached in the sessions are recorded here. 
 * [Document](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega1/Fila3.md)
 
-## subject competencies
+## Subject competencies
 Here are the arguments of how we relate the process in a software project and what we learned during the virtual classes.
 * [Document](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega1/Fila5.md)
 ## Video
