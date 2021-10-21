@@ -18,7 +18,7 @@ Our work team is conformed by 6 students of the first semester of software engin
 3. [Caamal Dzib, Adal Jefte](https://github.com/AdalCaamal)
 4. [Fonseca Loría, Adrián](https://github.com/adrianfonsecal)
 5. [Gómez Herguera, Miguel Ángel](https://github.com/MiguelHerguera)
-6. Rosado Valle, Diego Alexander
+6. [Rosado Valle, Diego Alexander](https://github.com/rosadod299)
 
 
 # First part of the project
