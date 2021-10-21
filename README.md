@@ -20,6 +20,10 @@ Our work team is conformed by 6 students of the first semester of software engin
 5. [Gómez Herguera, Miguel Ángel](https://github.com/MiguelHerguera)
 6. Rosado Valle, Diego Alexander
 
-# Video. First part of the project
+
+# First part of the project
+## The description of the app
+In this [document](docs/Fila1.md) as it's named we describe all the general parts of the software project. 
+## Video
 https://www.youtube.com/watch?v=ea8dMza2wls&t=6s&ab_channel=Rub%C3%A9nAlvarado
 
