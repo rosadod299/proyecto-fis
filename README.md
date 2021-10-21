@@ -14,8 +14,8 @@ Organize in a clear, orderly and efficient way the documents and files of a user
 # Work team
 Our work team is conformed by 6 students of the first semester of software engineering career.
 1. [Alvarado Interián, Rubén Enrique]( https://github.com/kirake-a)
-2. Berzunza Ramirez, Melhem Abraham
-3. Caamal Dzib, Adal Jefte
+2. [Berzunza Ramirez, Melhem Abraham](https://github.com/MelhemBerzunza)
+3. [Caamal Dzib, Adal Jefte](https://github.com/AdalCaamal)
 4. [Fonseca Loría, Adrián](https://github.com/adrianfonsecal)
 5. [Gómez Herguera, Miguel Ángel](https://github.com/MiguelHerguera)
 6. Rosado Valle, Diego Alexander
@@ -34,6 +34,10 @@ In this part of the project we described and considered the functional requireme
 ## Development process
 With the help of the log, we record all the processes that occurred throughout this first part of the project, from the responsibilities to the agreements reached in the sessions are recorded here. 
 * [Document](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega1/Fila3.md)
+
+## subject competencies
+Here are the arguments of how we relate the process in a software project and what we learned during the virtual classes.
+* [Document](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega1/Fila5.md)
 ## Video
 https://www.youtube.com/watch?v=ea8dMza2wls&t=6s&ab_channel=Rub%C3%A9nAlvarado
 
