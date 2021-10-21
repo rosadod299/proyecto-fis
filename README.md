@@ -23,7 +23,11 @@ Our work team is conformed by 6 students of the first semester of software engin
 
 # First part of the project
 ## The description of the app
-In this [document](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega1/Fila1.md) as it's named we describe all the general parts of the software project. 
+In this document as it's called we describe all the general parts of the software project. 
+* [Document](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega1/Fila1.md)
+## Requirements and user stories 
+In this part of the project we described and considered the functional requirements and the non functional requirements, and with a diagram we exemplified it.
+* [Document](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega1/Fila2.md)
 ## Video
 https://www.youtube.com/watch?v=ea8dMza2wls&t=6s&ab_channel=Rub%C3%A9nAlvarado
 
