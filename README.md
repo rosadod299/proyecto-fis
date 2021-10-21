@@ -13,12 +13,13 @@ Organize in a clear, orderly and efficient way the documents and files of a user
 
 # Work team
 Our work team is conformed by 6 students of the first semester of software engineering career.
-1. Alvarado Interián, Rubén Enrique 
+1. [Alvarado Interián, Rubén Enrique]( https://github.com/kirake-a)
 2. Berzunza Ramirez, Melhem Abraham
 3. Caamal Dzib, Adal Jefte
-4. Fonseca Loría, Adrián
-5. Gómez Herguera, Miguel Ángel
+4. [Fonseca Loría, Adrián](https://github.com/adrianfonsecal)
+5. [Gómez Herguera, Miguel Ángel](https://github.com/MiguelHerguera)
 6. Rosado Valle, Diego Alexander
 
 # Video. First part of the project
 https://www.youtube.com/watch?v=ea8dMza2wls&t=6s&ab_channel=Rub%C3%A9nAlvarado
+
